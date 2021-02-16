@@ -7,8 +7,8 @@ namespace RegisterDioApp
         static void Main(string[] args)
         {
 
-            Series myObject = new Series();
-            Console.WriteLine("Hello World!");
+            // Series myObject = new Series();
+            string userOPtion = 
         }
     }
 }

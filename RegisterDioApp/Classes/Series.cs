@@ -10,6 +10,7 @@ namespace RegisterDioApp
         private string Title {get; set;}
         private string Description {get; set;}
         private int Year {get; set;}
+        private bool Deleted {get; set;}
 
         // Constructor:
         public Series(int id, Genre genre, string title, string description, int year)
@@ -19,15 +20,17 @@ namespace RegisterDioApp
             this.Year = year;
             this.Description = description;
             this.Genre = genre;
+            this.Deleted = false;
         }
 
+        // Methods
         public override string ToString()
         {
             string _return = "";
-            _return += "Genre: " + this.Genre + Enviroment.NewLine;
-            _return += "Title: " + this.Title + Enviroment.NewLine;
-            _return += "Description: " + this.Description + Enviroment.NewLine;
-            _return += "Launching Year: " + this.Year + Enviroment.NewLine;
+            _return += "Genre: " + this.Genre + "\n";
+            _return += "Title: " + this.Title + "\n";
+            _return += "Description: " + this.Description + "\n";
+            _return += "Launching Year: " + this.Year + "\n";
             return _return;
         }
 
@@ -39,6 +42,11 @@ namespace RegisterDioApp
         public int ReturnId()
         {
             return this.Id;
+        }
+
+        public void _Delete()
+        {
+            this.Deleted = true;
         }
 
     }
