@@ -36,7 +36,6 @@ namespace RegisterDioApp
                 }
                 userOption = GetUserOption();
             }
-
             
         }
 
