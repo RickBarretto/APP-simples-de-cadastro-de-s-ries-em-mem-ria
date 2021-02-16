@@ -36,7 +36,7 @@ namespace RegisterDioApp
                 }
                 userOption = GetUserOption();
             }
-            
+          
         }
 
         private static void _ListSeries()
