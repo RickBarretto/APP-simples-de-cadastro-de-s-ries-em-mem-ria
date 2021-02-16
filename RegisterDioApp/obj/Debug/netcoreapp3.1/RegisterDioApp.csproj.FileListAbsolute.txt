@@ -1,0 +1,13 @@
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\bin\Debug\netcoreapp3.1\RegisterDioApp.exe
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\bin\Debug\netcoreapp3.1\RegisterDioApp.deps.json
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\bin\Debug\netcoreapp3.1\RegisterDioApp.runtimeconfig.json
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\bin\Debug\netcoreapp3.1\RegisterDioApp.runtimeconfig.dev.json
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\bin\Debug\netcoreapp3.1\RegisterDioApp.dll
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\bin\Debug\netcoreapp3.1\RegisterDioApp.pdb
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.csprojAssemblyReference.cache
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.AssemblyInfoInputs.cache
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.AssemblyInfo.cs
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.csproj.CoreCompileInputs.cache
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.dll
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.pdb
+D:\Users\pdant\source\dotnet\learning\CadastroEmMemoriaDIO\RegisterDioApp\obj\Debug\netcoreapp3.1\RegisterDioApp.genruntimeconfig.cache

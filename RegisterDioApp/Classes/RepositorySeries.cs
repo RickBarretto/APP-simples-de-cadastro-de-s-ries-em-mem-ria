@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using RegisterDioApp.Interfaces;
 
-namespace RegisterDioApp.Classes
+namespace RegisterDioApp
 {
     public class RepositorySeries : IRepository<Series>
     {
